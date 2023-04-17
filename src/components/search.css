@@ -1,0 +1,11 @@
+.search{
+    border:solid 1px darkslategray;
+    background-color:lightgreen;
+    border-radius: 6px;
+    width: 200px;
+    padding:5px;
+}
+#search{
+    display: flex;
+    justify-content: center;
+}
